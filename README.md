@@ -1,6 +1,6 @@
 # AmChatClient
-The Lightweight AmChat Chatting Client
+The lightweight chat client for AmChat
 
 # AmChat Client Version
 
-AmChat 2 Client version 1.1.0
+AmChat 3 Client 1.4.5
